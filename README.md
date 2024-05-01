@@ -2,8 +2,7 @@
 
 QKart is your one-stop solution for buying the latest trending items with India's fastest delivery to your doorstep. It's a traditional brick-and-mortar supermarket chain with stores in over 30 cities throughout India, presented as a Flipkart-like web platform with all the necessary functionalities.
 
-- **Website URL :** Upcoming...
-- **Backend API :** Upcoming...
+- **Website URL :** https://qkart-frontend-v2-rho.vercel.app/
 
 ## Note From Developer
 
