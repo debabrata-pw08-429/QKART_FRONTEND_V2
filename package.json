@@ -32,10 +32,7 @@
     "resetMocks": false
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "npm install",
-    "test": "react-scripts test --json --outputFile=testReport.json --watchAll=false",
-    "eject": "react-scripts eject"
+    "start": "react-scripts start"
   },
   "browserslist": {
     "production": [
