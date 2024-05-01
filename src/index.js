@@ -27,7 +27,9 @@ ReactDOM.render( <React.StrictMode>
 
           
         </SnackbarProvider>
+
       </BrowserRouter>
+      
     </ThemeProvider>
 
   </React.StrictMode>
