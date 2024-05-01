@@ -33,7 +33,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm install",
     "test": "react-scripts test --json --outputFile=testReport.json --watchAll=false",
     "eject": "react-scripts eject"
   },
